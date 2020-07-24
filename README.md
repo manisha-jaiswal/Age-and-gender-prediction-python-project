@@ -1,37 +1,39 @@
 # Age-and-gender-prediction-python-project
 python project
 
-Automatic age and gender prediction has become relevant to an increasing amount of applications , particularly since the size of social platforms and social media.
+        Automatic age and gender prediction has become relevant to an increasing amount of applications , particularly since the size of social platforms and social media.
 
-In this project , I had used deep learning to accurately identify the gender and age of a person from a single image of a face . The predicted gender may be one of ‘Male’ and ‘Female’ and the predicted age may be ranges(0-2),(4-6),(8-12),(15-20),(25-32),(38-43),(48-53),(60-100)(8 modes of final softmax layer).
+        In this project , I had used deep learning to accurately identify the gender and age of a person from a single image of a face . The predicted gender may be one of               ‘Male’ and ‘Female’ and the predicted age may be ranges(0-2),(4-6),(8-12),(15-20),(25-32),(38-43),(48-53),(60-100)(8 modes of final softmax layer).
 
-It is very difficult to accurately guess an exact age from a single image because of factors like makeup , lighting , obstructions and facial expressions and so, I made this a classification problem instead of making it one of regression
+        It is very difficult to accurately guess an exact age from a single image because of factors like makeup , lighting , obstructions and facial expressions and so, I made        this a classification problem instead of making it one of regression
 
 Objective
-In proposed system, we will use the concept of Deep Learning to accurately identify the gender and age of a person from a single image of a face. 
+        
+        In proposed system, we will use the concept of Deep Learning to accurately identify the gender and age of a person from a single image of a face. 
 
-We are trying to make more interactive and understandable system. 
+        We are trying to make more interactive and understandable system. 
 
-It is very difficult to accurately guess an exact age from a single image because of factors like makeup , lighting , obstructions and facial expressions .And so we make this a classification problem instead of making it one of regression
+        It is very difficult to accurately guess an exact age from a single image because of factors like makeup , lighting , obstructions and facial expressions .And so we make         this a classification problem instead of making it one of regression
 
-For this project, we will use the Adience Dataset servers as a benchmark for face photos and is inclusive of various real world imaging conditions like noise , lighting , pose and appearance
+        For this project, we will use the Adience Dataset servers as a benchmark for face photos and is inclusive of various real world imaging conditions like noise , lighting        , pose and appearance
 
-Age and Gender Prediction System demonstrates better results of predict age and gender than traditional systems and shows robustness to changes. The system can be used world wide at 
-        Social Media Platform
+       Age and Gender Prediction System demonstrates better results of predict age and gender than traditional systems and shows robustness to changes. The system can be used          world wide at 
 
-        Product selling
+                 Social Media Platform
 
-        Patient monitoring system.
+                Product selling
+
+                Patient monitoring system.
 
 Advantages
 
-  User Friendly 
+        User Friendly 
   
-  Efficient
+        Efficient
   
-  Helpful for information gathering
+        Helpful for information gathering
   
-  Less time consuming
+        Less time consuming
   
 Functional Requirements
     
@@ -52,6 +54,7 @@ Functional Requirements
 Software and Library Requirements
       
       SOFTWARE REQUIREMENTS
+              
               Operating system : Windows 10
               Coding Language : Python 3.7
               Tools : Opencv , CNN 
@@ -59,6 +62,7 @@ Software and Library Requirements
               Platform : Python IDLE, windows command prompt
     
     LIBRARY REQUIREMENTS
+            
             Libraries : cv2 , os , tkinter ,Math , argparse
 
 
