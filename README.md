@@ -35,6 +35,7 @@
   <li>gender_deploy.prototxt</li>
   <li>gender_net.caffemodel</li>
   <li>haarcascade_frontalface_alt</li>
+  <li>_config.yml</li>
   <li>a few pictures to try the project on</li>
   <li>try.py</li>
  </ul>
