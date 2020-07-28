@@ -25,6 +25,16 @@
   
        pip install youtube-dl
 </ul>
+<ul>
+ <li>tensorflow</li>
+  
+       pip install tensorflow
+</ul>
+<ul>
+ <li>pafy</li>
+  
+       pip install pafy
+</ul>
 
 <b><h2>The contents of this Project :</h2></b>
 <ul>
@@ -34,7 +44,7 @@
   <li>age_net.caffemodel</li>
   <li>gender_deploy.prototxt</li>
   <li>gender_net.caffemodel</li>
-  <li>haarcascade_frontalface_alt</li>
+  <li>haarcascade_frontalface_alt.xml</li>
   <li>_config.yml</li>
   <li>a few pictures to try the project on</li>
   <li>try.py</li>
