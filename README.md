@@ -63,6 +63,12 @@
 <ul>
   <li><b>Opening the Home Panel , </b> Use Command :</li>
   
+  
+  <ul> Author </ul>
+    <li>Manisha Kumari</li>
+    <li>MCA CUSAT Kochi </li>
+    <li> Group member - Soni Kumari </li>
+  
       python try.py
 </ul>
 <ul>
