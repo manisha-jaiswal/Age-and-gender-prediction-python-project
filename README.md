@@ -73,6 +73,6 @@
     
    <P> Manisha Kumari</P>
     
-    <P>MCA CUSAT Kochi </P>
+    MCA CUSAT Kochi 
     
     Group member - Soni Kumari
