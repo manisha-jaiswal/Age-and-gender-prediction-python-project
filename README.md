@@ -69,7 +69,7 @@
   <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
 </ul>
     
-<p><b> Author </b></p>>
+<p><b> AUTHOR </b></p>
     <li>Manisha Kumari</li>
     <li>MCA CUSAT Kochi </li>
     <li> Group member - Soni Kumari </li></ul>
