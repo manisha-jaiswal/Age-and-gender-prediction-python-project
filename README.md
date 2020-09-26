@@ -61,13 +61,7 @@
 </ul>
   <p><b>Note: </b>The Image should be present in same folder where all the files are present</p> 
 <ul>
-  <li><b>Opening the Home Panel , </b> Use Command :</li>
-  
-  
-  <ul> Author </ul>
-    <li>Manisha Kumari</li>
-    <li>MCA CUSAT Kochi </li>
-    <li> Group member - Soni Kumari </li>
+  <li><b>Opening the Home Panel , </b> Use Command :</li> 
   
       python try.py
 </ul>
@@ -75,4 +69,7 @@
   <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
 </ul>
     
-
+<ul> Author </ul>
+    <li>Manisha Kumari</li>
+    <li>MCA CUSAT Kochi </li>
+    <li> Group member - Soni Kumari </li></ul>
