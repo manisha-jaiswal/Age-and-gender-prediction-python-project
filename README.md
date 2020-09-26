@@ -70,6 +70,9 @@
 </ul>
     
 <p><b> AUTHOR </b></p>
-    Manisha Kumari
-    MCA CUSAT Kochi 
+    
+   <P> Manisha Kumari</P>
+    
+    <P>MCA CUSAT Kochi </P>
+    
     Group member - Soni Kumari
